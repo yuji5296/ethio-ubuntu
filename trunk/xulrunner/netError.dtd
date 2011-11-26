@@ -1,0 +1,92 @@
+<!-- Translated by Assefa Gebregewergis <assgeorge@gmail.com> -->
+<!-- Mekelle Institute of Technology 2009 -->
+<!ENTITY loadError.label "ገፁ የመጫን ችግር ኣጋጥሞታል">
+<!ENTITY retry.label "አንደገና ይሞክሩ">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "መገናኘት ኣልቻለም">
+<!ENTITY connectionFailure.longDesc "<p>ድህረ ገፁ ትክክለኛ ብመስልም ብራውዘሩ ግንኝነት መፍጠር ኣልቻለም። </p><ul><li>ድህረ ገፁ ለጊዜው የለም ይሆናል ?  ቆይተው ይሞክሩ። </li><li>ሌሎች ድህረ ገፆች ማግኘት ኣልቻልክም? የኮምፒተርዎን ኔትዎርክ ግንኝነት ያራጋግጡ። </li><li> ኮምፒተርዎን  ወይም ኔትዎርኮን በፋየርዎል ወይም በፕሮክሲ  ታጥረዋልን?  ትክክለኛ ያልሆነ ሴትንግ ድህረ ገፀ ከመፈለግ ሊጋጭ ይችላል።  </li></ul>" >
+
+<!ENTITY deniedPortAccess.title "ወደቡ  በሰኪሪቲ ምክንያት ተከልክለዋል ። " >
+<!ENTITY deniedPortAccess.longDesc "<p>በወደቡ የተገለፀው የተጠየቀውን  ኣድራሻ ለምሳሌ ( <q>mozilla.org:80</q> ለፖርት 80 በmozilla.org)  ኣብዛኛው የሚጠቀመው ከድህረ ገፅ ፍለጋ ይልቅ  ለሌሎች ኣላማዎች ነው ። </p>">
+
+<!ENTITY dnsNotFound.title "ኣድራሻው ሊገኝ ኣልቻለም።" >
+<!ENTITY dnsNotFound.longDesc "<p>ማሰሽያው የዚህ ኣድራሻ አስተናጋጅ   አገልጋይ ማግኝት ኣልቻለም። </p><ul><li> ጎራውን ሲፅፉ ተሳስተዋልን? ለምሳሌ<q><strong>www</strong>.mozilla.org</q> ከመፃፍ <q><strong>ww</strong>.mozilla.org</q> ፅፈው አንዳይሆን ። ጎራውን ሞኖሩን አርግጠኛ ኖት? ምዝገባው ጊዜ ኣልፎበት ሊሆን ይችላል። </li><li> ሌሎች ድረገፆች ማሰስ ኣልቻሉም? የአውታረ መረቡን ተያያዥነት  አና የጎራ ኣስተናጋጁን ቅንብር ያራጋግጡ። </li><li> ኮምፒተርዎ ወይም  አውታረ መረቡ በኬላ ወይም በአጅ ኣዙር ታጥረዋልን? ትክክል ያልሆነ ቅንብር ከድር አሰሳ ችግር ሊፈጥር ይችላል።</li></ul>">
+
+<!ENTITY fileNotFound.title "ፋይል  ኣይገኝም">
+<!ENTITY fileNotFound.longDesc "<ul><li>የፈለግከውን ዓይነት ዳግም ተሰይሞ ፡ ተወግዶ ፡ ወይም ተንቀሳቅሶ ሊሆን ይችላል? 
+</li><li>በኣድራሻው የፊደል መረጣ ፡ በአቢይ ማድረግ ወይም ሌሎች የትየባ ስህተት ኣለ ወይ? </li><li>ለጠየቁት ዓይነት በቂ የሆነ መድረሻ ፍቃድ ኣሎት? </li></ul>"  >
+
+<!ENTITY generic.title "የተጠየቀውን መጨረስ ኣልቻለም">
+<!ENTITY generic.longDesc "<p>ስለ ተፈጠረው ችግር ወይም ስህተት ለጊዜው ተጨማሪ መረጃ የለም። </p>">
+
+<!ENTITY malformedURI.title "የተሳሳተ ኣድራሻ">
+<!ENTITY malformedURI.longDesc "<p>የቀረበው ኣድራሻ ቅርፀቱ ኣይታወቅም። አባክዎን ለስህተት የአቀማመጥ አሞሌን ኣረጋግጠው አንደገና ይሞክሩ። </p>">
+
+<!ENTITY netInterrupt.title "የዊህብ ሰደድ ተስተጛጙለዋል።">
+<!ENTITY netInterrupt.longDesc "<p>ማሰሽያው በትክክል  ተያይዘዋል ግን መረጃ ስደዳ ላይ ተያያዥነት ይቓረጣል። አባክዎትን አንደገና ይሞክሩ። </p><ul><li>  ሌሎች ድረ ገፆች ማሰስ ኣልቻሉም? የኮምፒተርዎን አውታረ መረብ ተያያዥነት ያራጋግጡ። </li><li>አስከ ኣሁን ችግር ኣሎት?ለአገዛ የአውታረ መረብ  ኣስተዳዳሪ ወይም የበይነ መረብ ኣቅራቢ ያማክሩ።</li></ul>">
+
+<!ENTITY netOffline.title "ከመስመር  ውጭ ሁነታ ">
+<!ENTITY netOffline.longDesc "<p>ኣሳሹ አየሰራ ያለው  ከመስመር  ውጭ ሁነታ ነው ፣ ስለዚ ለጠየቁት ዓይነት መያያዝ ኣይችልም ።  </p><ul><li>ኮምፒተርዎን  ከገባሪ አውታረ መረብ ተያይዘዋል?  </li><li>ማሰሺያው በመስመር ላይ ኣስቀምጠው አንደገና ይሞክሩ። </li></ul>">
+
+<!ENTITY contentEncodingError.title "የይዘት መቀየር ስህተት">
+<!ENTITY contentEncodingError.longDesc "<p>ለማየት የሞኮሩት ገፅ ኣይታይም፣ ምክናቱም የሚጠቀመው ማመቅያ ትክክል ኣይደለም ወይም ኣይታገዝም። </p><ul><li>አባኮትን  ስለዚህ ችግር ለድረ ገፁ ባለቤቶች ያሳውቁ። </li></ul>">
+
+<!ENTITY unsafeContentType.title "ድህንነቱ ያልተጠበቀ ዓይነት ፋይል">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>አባኮትን ስለዚህ ችግር ለድረ ገፁ ባለቤቶች ያሳውቁ።</li>
+</ul>
+">
+
+<!ENTITY netReset.title "ተያያዥነት ተቓርጠዋል ">
+<!ENTITY netReset.longDesc "<p>ለተያያዥነት አየተደራደረ አያለ የአውታረ መረብ አገናኝ ተቕርጠዋል። አባኮትን አንደገና ይሞክሩ።  </p>">
+
+<!ENTITY netTimeout.title "አውታረ መረብ ሳዓት ኣልፎበታል">
+<!ENTITY netTimeout.longDesc "<p>የተጠየቀውን ድረ ገፅ  ለተጠየቀው ተያያዥነት መልስ ስለማይመልስ ማሰሽያው መልስን መጠበቅ ኣቑመዋል ።  </p><ul><li> ኣገልግሎት ሰጪው ጠያቂ በዝቶበታል ወይም ለግዜው ኣገልግሎት አየሰጠ ኣይደለም? ቆይቶው ይሞክሩ።  </li><li>ሌሎች ድረ ገፆች ማሰስ ኣልቻሉም?  የኮምፒተርዎን አውታረ መረብ ተያያዥነት ያራጋግጡ።</li><li> ኮምፒተርዎ ወይም  አውታረ መረቡ በኬላ ወይም በአጅ ኣዙር ታጥረዋልን? ትክክል ያልሆነ ቅንብር ከድር አሰሳ ችግር ሊፈጥር ይችላል።?  </li><li>አስከ ኣሁን ችግር ኣሎት?ለአገዛ የአውታረ መረብ  ኣስተዳዳሪ ወይም የበይነ መረብ ኣቅራቢ ያማክሩ።</li></ul>">
+
+<!ENTITY protocolNotFound.title "የማይታወቅ ፕሮቶኮል">
+<!ENTITY protocolNotFound.longDesc "<p>ኣድራሻው የገለፀው ፕሮቶኮል ለምሳሌ (<q>wxyz://</q>)  ኮሆነ  ማሰሻው ኣያውቀውም ስለዚ  ማሰሻው በትክክል ከድረ ገፁ መያያዝ ኣይችልም ።   </p><ul><li> መድረስ የፈለጉት  ማህደረ ብዙ መረጃ ነው ወይስ ፅሁፍ ያልሆነ ኣገልግሎት ነው?  ለተጨማሪ ፍላጎት ድረ ገፁን ያራጋግጡ። </li><li>የተወሰኑ ፕሮቶኮሎች በኣሳሹ ከመታወቃቸው በፊት  ሞንጎኛ ሶፍትዌር ወይም ተሰኪ  ያስፈልጋችዋል </li></ul>">
+
+<!ENTITY proxyConnectFailure.title "የእጅ አዙር አገልጋይ ተያያዥነት ውድቅ ኣድርጎታል">
+<!ENTITY proxyConnectFailure.longDesc "<p>ማሰሻው የእጅ አዙር አገልጋይ አንዲጠቀም ተወቅረዋል ፣  አጅ ኣዙሩ ግን  ተያያዥነት ውድቅ ኣድርጎታል።   </p><ul><li>የማሰሻው የአጅ ኣዙሩ ውቅር ትክክል ነው ? ቅንብሩን ኣረጋግጠው አንደገና ይሞክሩ። </li><li>የአጅ ኣዙር ግልጋሎት ከዚህ  አውታረ መረብ ተያያዥነት ይፈቅዳልን?</li><li>አስከ ኣሁን ችግር ኣሎት?ለአገዛ የአውታረ መረብ  ኣስተዳዳሪ ወይም የበይነ መረብ ኣቅራቢ ያማክሩ።</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "የእጅ አዙር አገልጋይ ሊገኝ ኣልቻለም ">
+<!ENTITY proxyResolveFailure.longDesc "<p>ማሰሻው የእጅ አዙር አገልጋይ አንዲጠቀም ተወቅረዋል ፣ ,  አጅ ኣዙሩ ግን  ሊገኝ ኣልቻለም </p><ul><li>የማሰሻው የአጅ ኣዙሩ ውቅር ትክክል ነው ? ቅንብሩን ኣረጋግጠው አንደገና ይሞክሩ። </li><li>ኮምፒተርዎን  ከገባሪ አውታረ መረብ ተያይዘዋል?  </li><li>አስከ ኣሁን ችግር ኣሎት? ለአገዛ የአውታረ መረብ  ኣስተዳዳሪ ወይም የበይነ መረብ ኣቅራቢ ያማክሩ።</li></ul>">
+
+<!ENTITY redirectLoop.title "የማዛዋወር ምልልስ">
+<!ENTITY redirectLoop.longDesc "<p>ማሰሻው የተጠየቀውን ዓይነት ሰርስሮ ማውጣት ኣቁሞዋል።  ድረ ገፁ ጥያቄው  ፈፅሞ በማይጣናቅው መልኩ አያዛዋወረው ነው። </p><ul><li>በዚህ ድረ ገፅ የሚፈለጉ ኩኪዎች ኣቦዝንሃልን ወይም ኣግድሃልን? </li><li><em>ማስታወሻ</em>: የድረ ገፁ ኩኪዎች ተቀብለህ ችግሩ ካልተፈታ ፣ የኮምፒተርህን ችግር ሳይሆን  የኣገልጋይ ውቅር ችግር ሊሆን ይችላል። </li></ul>">
+
+<!ENTITY unknownSocketType.title "የተሳሳተ መልስ">
+<!ENTITY unknownSocketType.longDesc "<p>ድረ ገፁ  አውታረ መረቡ ባልተጠበቀ መንገድ ስለመለሰለት ማሰሻው መቀጠል ኣይችልም።</p>">
+
+
+<!ENTITY nssFailure2.title "ጥብቅ ተያያዥነት  ውድቅ ሁኖዋል">
+<!ENTITY nssFailure2.longDesc "<p> የተቀበልከው ውሂብ ርግጠኝነት ስለማይታወቅ  ለማየት አየሞከርከው ያለው ገፅ ማየት ኣልተቻለም </p><ul><li>አባኮትን  ስለዚህ ችግር ለድረ ገፁ ባለቤቶች ያሳውቁ።</li></ul>">
+
+<!ENTITY nssBadCert.title "ጥብቅ ተያያዥነት  ውድቅ ሁኖዋል">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>ይህ ችግር ከኣገልጋይ ውቅር ወይም ሌላ ሰው ኣገልጋዩ ቀይሮታል።</li>
+<li>ቀደም ብለው ከኣገልጋዩ በትክክል ተያይዘው ከነበረ ፣ ስህተቱ ለጊዜው ሊሆን ይችላል ፣ ቆይተው አንደገና ሊሞክሩ ይችላሉ።</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "ተጠርጣሪ ኣጥቂ ድረ ገፅ!">
+<!ENTITY malwareBlocked.longDesc "
+<p>ኣጥቂ ድረ ገፅ የግል መረጃ የሚሰርቁ ፕሮግራሞች ይጭናል ፣ ኮምፒተርህን ተጠቅመው ሌሎችን ያጠቃሉ ፣ ወይም ኣጣቃላይ ስራትህን ይጎዳሉ።</p>
+<p>ድረ ገፃችን በስህተት ኣጥቂ ድረ ገፅ ተብሎ  ሪፖርት ተደርገዋል ለሚሉ  ለድረ ገፅባለቤቶች ከሚቀጥለው ድረ ገፅ  <a href='http://www.stopbadware.org/home/reviewinfo'> ክልስ መጠየቅ ይችላሉ።</a></p>
+">
+
+
+<!ENTITY phishingBlocked.title "ተጠርጣሪ የድረ ማጭበርበር!">
+<!ENTITY phishingBlocked.longDesc "
+<p>በዚህ ገፅ ላይ የግል መረጃ ማስገባት የማንነት ስርቆት ወይም ሌሎች ማታለል ሊያጋጥም ይችላል። </p>
+<p>የድር ማጭበርበር ከሚጠቀምባቸው ዘዴዎች ኣሽትቶ ማጥቃት ማለት ኣጭበርባሪ ድረ ገፆች ኢሜይል ተጠቅመው የምታምናቸውን ድረ ገፆች ኣስመስለው ይልካሉ።  </p>
+">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
